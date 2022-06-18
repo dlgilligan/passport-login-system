@@ -17,6 +17,12 @@ Anyone attempting to run this repository should have NodeJS installed, as well a
 - passport
 - passport-local
 
+Inside the repository, create a file with the name **.env**. This will be used to store the hash-key for password encryption.
+Inside this file, type:
+```
+SESSION_SECRET="your key" 
+```
+
 ## Run
 
 To execute the code, navigate to the repository in terminal and type:
