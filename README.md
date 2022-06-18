@@ -24,4 +24,4 @@ To execute the code, navigate to the repository in terminal and type:
 npm run devStart
 ```
 
-To terminate server, press Ctrl/Cmd + C
+To terminate server, press Ctrl/Cmd + C while inside the terminal.
